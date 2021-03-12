@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428634940971",
+    "project_id": "fam-bdad4",
+    "storage_bucket": "fam-bdad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428634940971:android:696a34fec261e710976c6e",
+        "android_client_info": {
+          "package_name": "com.example.fam_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428634940971-pmuk2k38jji9vj0uceh35ojfcahktqhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHFE592qAoZtmrphInc8f9mka7WH3af8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428634940971-pmuk2k38jji9vj0uceh35ojfcahktqhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
